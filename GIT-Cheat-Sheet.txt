@@ -1,1 +1,4 @@
 GIT Cheat Sheet
+
+1. Installation - Install GIT on your Linux/Windows/Mac machine.
+git --version // to check git version
